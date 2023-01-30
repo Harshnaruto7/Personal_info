@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    margin: 0;
+ font-family: 'Gochi Hand', cursive;
+}
+h1{
+    width:40%;
+    margin: 0 auto 0 auto;
+    font-family: 'Mansalva', cursive;
+}
+p{
+    font-family: 'Patrick Hand SC', cursive;
+    
+
+}
+
+.top-container{
+    background-color: #FFF6BD;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    padding-top: 100px;
+    position: relative;
+}
+.middle-conatiner{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+.bottom-continer{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: absolute;
+    right:150px;
+}
+
+.img-prof{
+    position: relative;
+    top: 20px;
+    width: 250px;
+    height: auto;
+}
+
+.cont-me{
+    width: 350px;
+    height: auto;
+}
+
